@@ -7,13 +7,13 @@ Source code for Applied Soft Computing paper ["**Ada: Adversarial learning based
 ```
 Ada/
 ├── DCGAN
-│   ├── DCGAN.py: the main code of DCGAN based data augmentation
+│   ├── DCGAN.py: the main code of DCGAN-based data augmentation
 ├── Node2vec
 │   ├── runNode2vec.py: the main interface code for Node2vec
 │   ├── node2vec.py: the main code for node2vec
 │   ├── word2vec.py: the main code for word2vec
 ├── Tools
-│   ├── tools.py: all the tool functions required during operation
+│   ├── tools.py: all the tool functions required during the process of running the program
 ├── dataset
 │   └── amazon
 │       ├── profiles.txt: the label of users
